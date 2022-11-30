@@ -1,0 +1,24 @@
+button:hover{
+    cursor: pointer;
+}
+h1{
+    color: goldenrod;
+}
+.modo_sexo{
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: red;
+    z-index: 1000;
+    text-align: center;
+}
+#btn_si{
+    background-color: goldenrod;
+    border-color: black;
+    color: azure;
+    font-size: xx-large;
+    padding: 32px;
+    text-align: center;
+    border-radius: 2px;
+}
