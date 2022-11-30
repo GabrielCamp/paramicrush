@@ -2,7 +2,7 @@
 
 Actividad de LAUNCH-X-LATAM 
 
-En elcual realizamos una excelente y original forma de declararte con tu crush (enamora@) y literalmente no tendra la oportunidad de decirte que No
+En el cual realizamos una excelente y original forma de declararte con tu crush (enamorad@) y literalmente no tendra la oportunidad de decirte que No
 
 # Lo implementado
 
